@@ -1,8 +1,7 @@
 # Teste MD
-<<<<<<< HEAD aisoiaoisoi
-caio tá aqui
+mudar esta linha
 =======
 Leandro
->>>>>>> 46cce51bd3d2bc415ddb3f66dbc5bb39b0f99b3c
+mudar esta linha
 ### Teste MD
 Leandro
