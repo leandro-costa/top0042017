@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Kayo Amaral marlon esteve aqui 
+=======
+Kayo Amaral Hue
+>>>>>>> f04bf231c09b9ad5e467e42d0c3ca58e026679fb
